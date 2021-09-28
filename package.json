@@ -4,6 +4,10 @@
     "description": "A dark theme I made to test how extensions work in vs-code",
     "version": "0.0.1",
     "publisher": "happyox",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tawana-kombora/huxley-s-dark-night"
+    },
     "keywords": [
         "theme",
         "dark theme",
