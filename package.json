@@ -1,0 +1,31 @@
+{
+    "name": "huxley-s-dark-night",
+    "displayName": "Huxley's Dark Night",
+    "description": "A dark theme I made to test how extensions work in vs-code",
+    "version": "0.0.1",
+    "publisher": "happyox",
+    "keywords": [
+        "theme",
+        "dark theme",
+        "huxley",
+        "Huxley",
+        "dark night",
+        "dark",
+        "night"
+    ],
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Huxleys Dark Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Huxleys Dark Night-color-theme.json"
+            }
+        ]
+    }
+  }
